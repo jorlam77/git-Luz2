@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1657303783
+#1658175792
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -23,6 +23,12 @@ images/sprite16-sheet0.png
 images/sprite17-sheet0.png
 images/sprite18-sheet0.png
 images/sprite19-sheet0.png
+images/sprite20-sheet0.png
+images/sprite21-sheet0.png
+images/sprite22-sheet0.png
+images/sprite23-sheet0.png
+images/sprite24-sheet0.png
+images/sprite25-sheet0.png
 media/sonidos%20de%20aplausos.ogg
 media/colocar.ogg
 media/sonido.ogg
